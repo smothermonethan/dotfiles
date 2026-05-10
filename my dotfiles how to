@@ -1,0 +1,3 @@
+first download xcad.dark.yml
+mkdir -p ${XDG_DATA_HOME:-$HOME/.local/share}/warp-terminal/themes/
+cp /home/ethan/Downloads/xcad2k-dark.yml ${XDG_DATA_HOME:-$HOME/.local/share}/warp-terminal/themes/
